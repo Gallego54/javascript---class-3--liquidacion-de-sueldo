@@ -1,7 +1,17 @@
 {
     "web-develop" : {
-        "junion": 84000,
+        "junior": 84000,
         "semi-senior": 92000,
         "senior": 100289
+    },
+    "mobile-develop" : {
+        "junior": 86000,
+        "semi-senior": 94000,
+        "senior": 102000
+    },
+    "systems-analyst":{
+        "junior": 91000,
+        "semi-senior": 99500,
+        "senior": 107000
     }
 }
